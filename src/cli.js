@@ -6,4 +6,4 @@ const sayUserName = () => {
   console.log(`Hello, ${userName}!`);
 };
 
-export { sayUserName };
+export default sayUserName;
